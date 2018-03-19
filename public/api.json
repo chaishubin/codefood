@@ -1,0 +1,67 @@
+[
+  {
+    "desc": "商品分类列表",
+    "url": "/home/goodscategorylist",
+    "params": [
+    ],
+    "requestDesc": "请求方式 get \n\r ",
+    "resultDesc": ""
+  },
+  {
+    "desc": "商品列表",
+    "url": "/home/goodslist",
+    "params": [
+    ],
+    "requestDesc": "请求方式 get \n\r ",
+    "resultDesc": ""
+  },
+  {
+    "desc": "订单列表",
+    "url": "/home/orderlist",
+    "params": [
+    ],
+    "requestDesc": "请求方式 get \n\r ",
+    "resultDesc": ""
+  },
+  {
+    "desc": "收藏列表",
+    "url": "/home/collectionlist",
+    "params": [
+    ],
+    "requestDesc": "请求方式 get \n\r ",
+    "resultDesc": ""
+  },
+  {
+    "desc": "商品分类列表",
+    "url": "/home/goodscategorylist",
+    "params": [
+    ],
+    "requestDesc": "请求方式 get \n\r ",
+    "resultDesc": ""
+  },
+  {
+    "desc": "商家注册",
+    "url": "/home/sellerregister",
+    "params": [
+      {
+        "field": "username",
+        "fieldDesc": "商家名称",
+        "is_require": "1"
+      },
+      {
+        "field": "password",
+        "fieldDesc": "密码",
+        "is_require": "1"
+      },
+      {
+        "field": "user_head",
+        "fieldDesc": "商家头像",
+        "is_require": "1"
+      }
+
+    ],
+    "requestDesc": "请求方式 post \n\r ",
+    "resultDesc": ""
+  }
+
+]
